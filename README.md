@@ -29,4 +29,4 @@
 
 ### :bar_chart: Stats
 
-![Katerina's GitHub stats](https://github-readme-stats.vercel.app/api?username=kater1naa&show_icons=true&theme=aura)
+![Katerina's GitHub stats](https://github-readme-stats.vercel.app/api?username=kater1naa&show_icons=true&theme=neon)
