@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**`Junior Software Developer`**
+**`Full Stack Software Developer`**
 
 
   <p align="left">
